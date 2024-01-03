@@ -1,6 +1,6 @@
 # Project DayCare
 
-# Running the DayCare Application
+## Running the DayCare Application
 [link to video ](https://drive.google.com/file/d/17_3-wgezIu0DZGITxcHqYhqcgh5tbmrq/view?usp=sharing)
 
 ## Prerequisites
