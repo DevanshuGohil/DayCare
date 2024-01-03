@@ -1,3 +1,5 @@
+# Project DayCare
+
 # Running the DayCare Application
 [link to video ](https://drive.google.com/file/d/17_3-wgezIu0DZGITxcHqYhqcgh5tbmrq/view?usp=sharing)
 
@@ -37,5 +39,3 @@ Please check the OOD Project Docs and Video for the presentation, instructions a
 - **Missing Dependencies**: If the application depends on external libraries, ensure they are properly included in the classpath.
 - **Main Class Not Found**: Verify that the correct main class name is specified while running the application.
 
----
-# DayCare
